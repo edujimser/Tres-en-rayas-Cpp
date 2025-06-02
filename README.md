@@ -18,7 +18,7 @@ El objetivo de este proyecto es reforzar los conceptos fundamentales de C++, pra
 ## 🚀 Cómo Ejecutarlo
 1. Descarga el ejecutable
    ```sh
-   git clone <https://github.com/edujimser/Tres-en-rayas-Cpp.git>
+   git clone <https://raw.githubusercontent.com/edujimser/Tres-en-rayas-Cpp/master/Tres%20en%20rayas%20en%20consola.exe>
    
 2. Clonar este repositorio en tu equipo:
    ```sh
