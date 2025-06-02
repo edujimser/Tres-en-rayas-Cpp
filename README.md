@@ -16,6 +16,10 @@ El objetivo de este proyecto es reforzar los conceptos fundamentales de C++, pra
 - Estilo de programación: **estructurado y basado en control de flujo**
 
 ## 🚀 Cómo Ejecutarlo
-1. Clonar este repositorio en tu equipo:
+1. Descarga el ejecutable
+   ```sh
+   git clone <https://github.com/edujimser/Tres-en-rayas-Cpp.git>
+   
+2. Clonar este repositorio en tu equipo:
    ```sh
    git clone <https://github.com/edujimser/Tres-en-rayas-Cpp.git>
