@@ -18,4 +18,4 @@ El objetivo de este proyecto es reforzar los conceptos fundamentales de C++, pra
 ## 🚀 Cómo Ejecutarlo
 1. Clonar este repositorio en tu equipo:
    ```sh
-   git clone <URL-del-repositorio>
+   git clone <https://github.com/edujimser/Tres-en-rayas-Cpp.git>
